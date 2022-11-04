@@ -1,11 +1,11 @@
 # Goland Todo API
 
-This is a [Todo]() REST API that allows to interact with to-do items. The functionality will be expanded with
+This is a [Todo](https://wintersakuraa.github.io/Golang-Todo-REST-API-Site) REST API that allows to interact with to-do items. The functionality will be expanded with
 new features.
 
 ## Getting Started
 
-Check out the [documentation]() to get started
+Check out the [documentation](https://wintersakuraa.github.io/Golang-Todo-REST-API-Site/docs) to get started
 
 ## Website
 
