@@ -1,8 +1,1 @@
 port: "5005"
-
-db:
-  host: "localhost"
-  port: "5432"
-  username: "postgres"
-  dbname: "golang_vue_todo"
-  sslmode: "disable"
