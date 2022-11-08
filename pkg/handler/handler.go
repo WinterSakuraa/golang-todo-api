@@ -15,7 +15,6 @@ func NewHandler(service *service.Service) *Handler {
 
 func (h *Handler) InitRoutes() *gin.Engine {
 	router := gin.New()
-	router.Use(CORSMiddleware())
 
 	api := router.Group("/api/v1")
 	{
